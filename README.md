@@ -52,9 +52,8 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 |                               | las bases de datos,                                                   |
 |                               | las interfaces de usuario y los componentes técnicos.                 |
 | ----------------------------- | --------------------------------------------------------------------- |
-| Codificación                  | Es la fase de construcción propiamente dicha.                         |
-|                               | Los desarrolladores escriben el código fuente utilizando              |
-|                               | lenguajes de programación siguiendo las especificaciones del diseño   | 
+| Codificación                  | Es la fase de construcción propiamente dicha.                        Los desarrolladores escriben el código fuente utilizando              
+                               lenguajes de programación siguiendo las especificaciones del diseño   | 
 | ----------------------------- | --------------------------------------------------------------------- |
 | Prueba                        | Se ejecuta el software en entornos controlados para verificar que     |
 |                               | funcione correctamente, no tenga errores (bugs)                       | 
