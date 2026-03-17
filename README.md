@@ -91,10 +91,12 @@ R:  Ingenieria de requerimientos - diseño - analisis de riesgo -  Prueba - Desp
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R:Debido a la naturaleza secuencial del modelo, un error en las etapas iniciales (como requerimientos o diseño) se propaga y amplifica en las etapas siguientes. Esto puede causar que se construya un sistema que no es lo que el usuario necesita, lo que implica costos altísimos y una gran pérdida de tiempo para corregirlo al final del proceso.
+    --------------------------------
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R:Porque es un modelo rígido que asume que todos los requisitos pueden definirse totalmente al principio. Como cada etapa debe terminarse antes de pasar a la siguiente, incorporar un cambio a mitad del desarrollo obliga a retroceder y rehacer gran parte del trabajo ya documentado y programado, lo que suele ser inviable en proyectos dinámicos.
+    -----------------------------
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
@@ -133,8 +135,8 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
-1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+1. [F] El modelo en cascada permite cambios constantes en los requerimientos.
+2. [V] El modelo incremental entrega el sistema en varias versiones.
+3. [V] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [V] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [V] El modelo en espiral incorpora el análisis de riesgos.
