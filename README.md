@@ -103,7 +103,7 @@ Complete la siguiente tabla.
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
-| RAD         |                          |                        |
+| RAD         |    Su objetivo es lograr un ciclo de desarrollo extremadamente corto, permitiendo crear un sistema funcional en un periodo de tiempo muy reducido (generalmente entre 60 y 90 días).                      |                    el sistema debe poder modularizarse (dividirse en componentes independientes que se puedan desarrollar por separado) y el equipo debe contar con las herramientas adecuadas para la generación automática de código o el ensamblaje de componentes.    |
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
