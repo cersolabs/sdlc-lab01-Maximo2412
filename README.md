@@ -101,7 +101,7 @@ R:  Ingenieria de requerimientos - diseño - analisis de riesgo -  Prueba - Desp
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
+| Cascada     |                          |  Cuando tu proyecto requiera un grupo pequeño y una necesidad urgente.                 |
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
