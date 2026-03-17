@@ -109,7 +109,9 @@ Complete la siguiente tabla.
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+    R:
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    R:
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
