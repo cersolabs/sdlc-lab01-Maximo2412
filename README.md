@@ -124,13 +124,19 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: El modelo RAD
 - Justifique su respuesta.
 
-  R:
+  R:Utiliza herramientas automatomatizsdas para la creación de base de datos, basandose en componentes existentes para optimizar el programa.
+  
 - ¿Qué etapas principales tendría el desarrollo?
 
   R:
+  -Ingeniería de requerimientos: Definir qué productos se venderán, cómo se registrarán las ventas y qué reportes necesita el comercio.
+-Diseño: Estructurar la base de datos de productos/ventas y diseñar la interfaz de usuario (ventanas de cobro).
+-Codificación: Programar las funciones del sistema utilizando componentes reutilizables para acelerar el proceso.
+-Prueba: Verificar que el sistema calcule correctamente los totales y descuente el stock sin errores.
+-Despliegue (Puesta en marcha): Instalar el software en la computadora del comercio y capacitar brevemente a los pocos usuarios que lo utilizarán.
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
