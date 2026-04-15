@@ -85,10 +85,10 @@ R:  Ingenieria de requerimientos - diseño - analisis de riesgo -  Prueba - Desp
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |  Cuando tu proyecto requiera un grupo pequeño y una necesidad urgente.                 |
-| Incremental |                          |                        |
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
+| Cascada     |Enfoque lineal y secuencial donde cada fase debe completarse antes de pasar a la siguiente.                          |  Proyectos con requisitos muy claros, estables y que no cambiarán; ideal para sistemas críticos o simples.                 |
+| Incremental | El producto se divide en partes funcionales que se entregan progresivamente a través de varios ciclos.                         |  Cuando se necesita entregar una funcionalidad básica pronto o el equipo no tiene personal completo desde el inicio.                      |
+| Prototipos  |Creación de una versión preliminar o "maqueta" del software para validar ideas con el usuario.                          | Cuando los requisitos no están claros o el cliente tiene dificultades para definir lo que necesita exactamente.                       |
+| Espiral     |Combina la naturaleza iterativa con un enfoque sistemático basado en el análisis de riesgos.                          | Proyectos de gran escala, complejos y de alto costo donde la gestión de riesgos es fundamental.                       |
 | RAD         |    Su objetivo es lograr un ciclo de desarrollo extremadamente corto, permitiendo crear un sistema funcional en un periodo de tiempo muy reducido (generalmente entre 60 y 90 días).                      |                    el sistema debe poder modularizarse (dividirse en componentes independientes que se puedan desarrollar por separado) y el equipo debe contar con las herramientas adecuadas para la generación automática de código o el ensamblaje de componentes.    |
 
 - Responder:
