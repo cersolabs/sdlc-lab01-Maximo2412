@@ -93,9 +93,9 @@ Complete la siguiente tabla.
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
-    R:
+    R: El modelo en Espiral, ya que incluye una etapa específica de análisis de riesgos en cada iteración.
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
-    R:
+    R: El modelo de Prototipos, porque permite al usuario interactuar con una versión preliminar y dar retroalimentación temprana.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
