@@ -41,12 +41,13 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 ### Actividad 2
 
-| Etapa | Descripción|
-| Análisis| Se centra en comprender y documentar qué debe hacer el software. Incluye la recopilación de necesidades del cliente y la definición de los requisitos funcionales y técnicos.|
-| Diseño| Se define la arquitectura del sistema; Es la etapa donde se decide cómo se estructurará el software, las bases de datos, las interfaces de usuario y los componentes técnicos.|
-| Codificación| Es la fase de construcción propiamente dicha. Los desarrolladores escriben el código fuente utilizando lenguajes de programación siguiendo las especificaciones del diseño | 
-| Prueba | Se ejecuta el software en entornos controlados para verificar que funcione correctamente, no tenga errores (bugs), y cumpla con los requisitos iniciales.|
-| Puesta en marcha / Despliegue | Es la entrega final del producto. El software se instala en el entorno real de producción para que los usuarios finales puedan comenzar a utilizarlo.|
+| Etapa | Descripción |
+| :--- | :--- |
+| **Análisis** | Se centra en comprender y documentar qué debe hacer el software. Incluye la recopilación de necesidades del cliente y la definición de los requisitos funcionales y técnicos. |
+| **Diseño** | Se define la arquitectura del sistema; Es la etapa donde se decide cómo se estructurará el software, las bases de datos, las interfaces de usuario y los componentes técnicos. |
+| **Codificación** | Es la fase de construcción propiamente dicha. Los desarrolladores escriben el código fuente utilizando lenguajes de programación siguiendo las especificaciones del diseño. |
+| **Prueba** | Se ejecuta el software en entornos controlados para verificar que funcione correctamente, no tenga errores (bugs), y cumpla con los requisitos iniciales. |
+| **Puesta en marcha** | Es la entrega final del producto. El software se instala en el entorno real de producción para que los usuarios finales puedan comenzar a utilizarlo. |
 
 
 * Luego responda:
